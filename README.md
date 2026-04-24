@@ -12,6 +12,7 @@
 - 🚀 Recognized for strong problem-solving skills, collaboration, and a commitment to delivering high-quality results aligned with business goals.
 - 🧠 Designed reusable ML workflows and orchestration pipelines using ZenML to ensure reproducibility and modularity.
 
+# Tech Slack
 
 
 💬 Ask me about:
