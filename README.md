@@ -38,7 +38,7 @@
 - ⛏️ Data Mining
 - 📉 Data Visualization
 
-##🚀 MLOps & Deployment
+## 🚀 MLOps & Deployment
 - ☁️ AWS (EC2, S3)
 - 🐳 Docker
 - 🔄 CI/CD Pipelines
