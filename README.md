@@ -18,9 +18,9 @@ I have also worked as a Deep Learning Engineer at visionnlp.com on client-based 
 💬 Ask me about:
 Machine Learning, Deep Learning, GANs, CNNs, NLP  
 
-📫 Email: intelligentprogrammer123@gmail.com  
+📫 Email: sreenuj366@gmail.com  
 
-📄 LinkedIn: https://www.linkedin.com/in/ayush-singh488/  
+📄 LinkedIn: https://www.linkedin.com/in/j-sreenivasulu/
 
 ---
 
