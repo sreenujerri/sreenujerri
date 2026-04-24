@@ -23,6 +23,35 @@
 👁️ Computer Vision
 🗣️ Natural Language Processing
 
+## 💻 Programming & Tools
+- 🐍 Python
+- 🗄️ SQL
+- ⚡ PySpark
+- ☁️ Databricks
+- 📊 Tableau
+
+## 🧹 Data Processing
+
+- 🧼 Data Cleaning
+- 🔄 Data Wrangling
+- 📈 Exploratory Data Analysis (EDA)
+- ⛏️ Data Mining
+- 📉 Data Visualization
+
+##🚀 MLOps & Deployment
+- ☁️ AWS (EC2, S3)
+- 🐳 Docker
+- 🔄 CI/CD Pipelines
+- ⚙️ ZenML Pipelines
+- 📦 MLflow
+- ⚡ FastAPI
+
+## 🔬 Advanced Technologies
+- 🧠 Large Language Models (LLMs)
+- 🔍 RAG (Retrieval-Augmented Generation)
+- 🔗 LangChain
+- 🤗 Hugging Face
+- 🏭 ADF (Azure Data Factory)
 
 💬 Ask me about:
 Machine Learning, Deep Learning, GANs, CNNs, NLP  
