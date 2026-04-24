@@ -6,7 +6,7 @@
 ## 🔭 About Me
 I am a Machine Learning Engineer working on building end-to-end production-grade ML systems and scalable AI solutions.
 
--🌱 I have worked as a Data Scientist at artifact.io, where I built large-scale NLP products.  
+- 🌱 I have worked as a Data Scientist at artifact.io, where I built large-scale NLP products.  
 I have also worked as a Deep Learning Engineer at visionnlp.com on client-based AI projects.  
 
 👯 I am currently building my own startup **antern.co** — an EdTech platform using AI + AR/VR to make learning interactive and engaging.
