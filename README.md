@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sreenivasulu  
-### Machine Learning Engineer & Data Scientist  
+### Machine Learning Engineer(MLOPS) & Data Scientist (AI) 
 
 ---
 
