@@ -1,16 +1,38 @@
-Hi 👋, I'm sreenu
+# Hi 👋, I'm Sreenivasulu  
+### Machine Learning Engineer & Data Scientist  
 
-<!--
-**sreenujerri/sreenujerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 About Me
+I am a Machine Learning Engineer working on building end-to-end production-grade ML systems and scalable AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I have worked as a Data Scientist at artifact.io, where I built large-scale NLP products.  
+I have also worked as a Deep Learning Engineer at visionnlp.com on client-based AI projects.  
+
+👯 I am currently building my own startup **antern.co** — an EdTech platform using AI + AR/VR to make learning interactive and engaging.
+
+📝 I regularly write articles on:
+- https://www.analyticsvidhya.com/blog/author/ayush3987/
+- https://blog.zenml.io  
+
+💬 Ask me about:
+Machine Learning, Deep Learning, GANs, CNNs, NLP  
+
+📫 Email: intelligentprogrammer123@gmail.com  
+
+📄 LinkedIn: https://www.linkedin.com/in/ayush-singh488/  
+
+---
+
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com" target="blank">
+    <img src="https://www.linkedin.com/in/j-sreenivasulu/" />
+  </a>
+  <a href="mailto:sreenuj366@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://analyticsvidhya.com">
+    <img src="https://img.shields.io/badge/Blog-green?style=for-the-badge&logo=medium" />
+  </a>
+</p>
