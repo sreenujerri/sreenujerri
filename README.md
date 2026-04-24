@@ -8,11 +8,11 @@
 
 - 🌱 I have worked as Data Scientist at artifact.io, where I worked in creating large scale NLP products for the organization. I have also worked as Deep Learning Engineer at visionnlp.com/ where I worked on client based projects.
 
-- 👯 I am currently building my own startup antern.co,Antern is an EdTech Platform which leverages Artificial intelligence and AR/VR to build educational content more fun and engaging, we build comprehensive and in-depth courses which helped students to get placed in top companies like IBM, Google and etc.
+- 👯 Built an end-to-end Loan Risk Prediction System using ML and MLOps principles with model tracking, automated training pipeline, and Dockerized deployment, improving reproducibility and deployment efficiency
+- 🚀 Recognized for strong problem-solving skills, collaboration, and a commitment to delivering high-quality results aligned with business goals.
+- 🧠 Designed reusable ML workflows and orchestration pipelines using ZenML to ensure reproducibility and modularity.
 
-📝 I regularly write articles on:
-- https://www.analyticsvidhya.com/blog/author/ayush3987/
-- https://blog.zenml.io  
+
 
 💬 Ask me about:
 Machine Learning, Deep Learning, GANs, CNNs, NLP  
