@@ -14,6 +14,15 @@
 
 # Tech Slack
 
+🤖 Data Science & AI
+🤖 Data Science
+📊 Data Analytics
+🧠 Artificial Intelligence
+🤖 Machine Learning
+🧬 Deep Learning
+👁️ Computer Vision
+🗣️ Natural Language Processing
+
 
 💬 Ask me about:
 Machine Learning, Deep Learning, GANs, CNNs, NLP  
